@@ -1,0 +1,12 @@
+.vscode/
+
+*.pyc
+
+visual/
+result/
+backup/
+dataset/
+ckpt/
+vis/
+log/
+pretrained/
